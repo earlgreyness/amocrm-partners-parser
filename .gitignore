@@ -1,2 +1,4 @@
 .idea/
 venv/
+amocrm-partner-contacts.csv
+dump-*.pickle
